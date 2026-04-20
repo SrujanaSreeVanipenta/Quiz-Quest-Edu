@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "824856727522",
+    "project_id": "quizquest-cead9",
+    "storage_bucket": "quizquest-cead9.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:824856727522:android:160cdb07b1ea1a785bb3bb",
+        "android_client_info": {
+          "package_name": "com.example.quizquest"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBaP_m3lUTYnetrL0ixDaIHvydtU-81qi4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
